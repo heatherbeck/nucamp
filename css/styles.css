@@ -2,7 +2,7 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 
-jumbotron {
+.jumbotron {
   margin: 0;
 }
 h1,
@@ -12,21 +12,21 @@ h3 {
 }
 
 h2 {
-  color: #cf1387;
+  color: #416a4d;
 }
 
 header h2 {
-  color: #6d0370;
+  color:#0c765a;
 }
 
 .site-footer {
-  background-image: linear-gradient(#dd37b4, #afc530, #60106b);
+  background-image: linear-gradient( #103745, #afc530, #27dd1d);;
   padding: 20px 0;
 }
 
 .jumbotron {
   padding: 30px;
-  background-image: linear-gradient(to right, #dd37b4, #afc530, #60106b);
+  background-image: linear-gradient(to right, #103745, #afc530, #27dd1d);
   color: rgb(50, 5, 59);
 }
 
@@ -36,9 +36,10 @@ header h2 {
   min-height: 200px;
 }
 .navbar {
-  background-color: #901CAD;
+  background-color: #416a4d;
 }
 .button {
-  background-color: #901CAD;
- 
-}
+  background-color: #0c765a;
+  
+ }
+ .img {};
